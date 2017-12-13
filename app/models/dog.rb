@@ -10,7 +10,4 @@ class Dog
     self.save
   end
 
-  def save
-    self.save
-  end
-end
+  
