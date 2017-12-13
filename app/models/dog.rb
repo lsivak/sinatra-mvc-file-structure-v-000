@@ -10,6 +10,6 @@ class Dog < Application::Base
   end
 
   def save
-    Dog.save
+    self.save
   end
 end
