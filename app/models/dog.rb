@@ -9,5 +9,4 @@ class Dog
     @@all << self
     self.save
   end
-
-  
+end
